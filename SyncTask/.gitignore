@@ -1,0 +1,48 @@
+LastToLuaDemo/ExternalResources/ChannelPlugins
+LastToLuaDemo/xls
+UnityEasyGame/Assets/EasyGame/UIEffect.meta
+UnityEasyGame/Assets/EasyGame/UIEffect
+
+# Output
+bin
+obj
+project.lock.json
+TestResult.xml
+
+# Possibly legacy now?
+mono/bin
+mono/tmp
+mono/protoc
+build_output
+build_temp
+build/msbuild*.log
+lib/Microsoft.Silverlight.Testing
+lib/NUnit
+
+#
+# 	Untracked files
+#
+.vs
+*.user
+*.suo
+*.nupkg
+_ReSharper.*
+*.sln.cache
+mono/TestResult.xml
+mono/.libs
+mono/*.exe
+mono/*.dll
+lib/protoc.exe
+*.ncrunch*
+
+# Benchmark output
+BenchmarkDotNet.Artifacts/
+
+
+GameTools/*/out
+GameTools/*/bin
+GameTools/*/obj
+GameTools/*/.vscode
+UnityDemo/RoundCombat/Assets/StreamingAssets/build_info
+UnityDemo/RoundCombat/Assets/StreamingAssets/build_info.meta
+UnityDemo/GameTemplate/.vsconfig
